@@ -8,7 +8,7 @@ To download the data install [git-lfs](https://git-lfs.github.com/ "git-lfs"), a
 If already cloned before installing git-lfs use
 
 ``` bash
-git lfs fetch
+git lfs pull
 ```
 
 to download the files.
